@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Diagnosticar y corregir los problemas en un pipeline de CI/CD existente que utiliza GitHub Actions y Docker para conseguir un flujo de integración y despliegue funcional.
+Diagnosticar y corregir los problemas en un pipeline de CI/CD existente que utiliza GitHub Actions y Docker para conseguir un flujo de integración y despliegue funcional
 
 ## Contexto
 
